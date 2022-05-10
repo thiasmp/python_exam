@@ -1,0 +1,415 @@
+1652183408645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile70ObgP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183421101	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile70ObgP/search.json.mozlz4", (void 0)))
+1652183422278	Marionette	INFO	Listening on port 37563
+1652183422397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652183439647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekyMypL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183451940	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekyMypL/search.json.mozlz4", (void 0)))
+1652183452889	Marionette	INFO	Listening on port 45883
+1652183452991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652183474070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCtYto8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183486371	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCtYto8/search.json.mozlz4", (void 0)))
+1652183487418	Marionette	INFO	Listening on port 41941
+1652183487513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652183497557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekDu4ns"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183509853	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekDu4ns/search.json.mozlz4", (void 0)))
+1652183510819	Marionette	INFO	Listening on port 43801
+1652183510900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652183527897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLxMBCK"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183540192	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLxMBCK/search.json.mozlz4", (void 0)))
+1652183541224	Marionette	INFO	Listening on port 40833
+1652183541335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652183581836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVMcw2A"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183594120	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVMcw2A/search.json.mozlz4", (void 0)))
+1652183595094	Marionette	INFO	Listening on port 34683
+1652183595176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1652183616968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaKvO41"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1652183629290	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaKvO41/search.json.mozlz4", (void 0)))
+1652183630297	Marionette	INFO	Listening on port 33275
+1652183630408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/personality-provider-models Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  main/personality-provider-models local data was corrupted
+console.warn: services.settings: main/personality-provider-models Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-models Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-models)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed  InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  main/personality-provider-recipe local data was corrupted
+console.warn: services.settings: main/personality-provider-recipe Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/personality-provider-recipe Signature failed again InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/personality-provider-recipe)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:135:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/search-telemetry-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-telemetry-v2)
+console.error: services.settings: 
+  main/search-telemetry-v2 local data was corrupted
+console.warn: services.settings: main/search-telemetry-v2 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
