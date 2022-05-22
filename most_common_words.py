@@ -1,6 +1,6 @@
 import pandas as pd
 from collections import Counter
-from data_cleaner import corpus_to_dtm, data_clean_corpus
+from data_cleaner import corpus_to_dtm
 
 
 data = corpus_to_dtm()
@@ -24,9 +24,4 @@ def pull_top_words(top_dict):
             words.append(t)
     word_counter = Counter(words).most_common        
     #print(word_counter)
-pull_top_words(top_dict)    
-
-#Hardcoded list of overused stopwords not contained in original stopwords list
-#This list has been moved into data_cleaner hardcoded to stop circular dependency
-lst_of_words_to_remove = ['kan','så','ved','dag','hele','igen','gør',
-'ligger','kom','må','se','ser','går','tager','tage','tror','vi','er','et']
+pull_top_words(top_dict)

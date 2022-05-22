@@ -1,7 +1,6 @@
 from locale import D_FMT
 import numpy as np
 import pandas as pd
-from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from fetch_speech_to_df import data_df
 import nltk
@@ -35,6 +34,16 @@ cleaned = lambda x: data_cleaner(x)
 
 data_clean_corpus = pd.DataFrame(data_df.speeches.apply(cleaned))
 
+#function to remove stopwords from speeches
+def remove_stopwords():
+
+    data_clean_corpus['speeches'] = data_clean_corpus['speeches'].apply(lambda x: ' '.join([word for word in x.split() if word not in (stopwords)]))
+
+    return data_clean_corpus
+
+stopwords_corpus = remove_stopwords()
+
+
 #function to create our document-term matrix.
 def corpus_to_dtm():
     cv = CountVectorizer(stop_words=stopwords)
@@ -42,4 +51,3 @@ def corpus_to_dtm():
     data_dtm = pd.DataFrame(data_cv.toarray(), columns=cv.get_feature_names())
     data_dtm.index = data_clean_corpus.index
     return data_dtm
-  
