@@ -11,7 +11,7 @@ def top_30_words():
     for s in data.columns:
         top = data[s].sort_values(ascending=False).head(30)
         top_dict[s]= list(zip(top.index, top.values))
-    #print(top_dict)
+    print(top_dict)
     return top_dict
 top_dict = top_30_words()
 
@@ -23,5 +23,5 @@ def pull_top_words(top_dict):
         for t in top:
             words.append(t)
     word_counter = Counter(words).most_common        
-    #print(word_counter)
+    print(word_counter)
 pull_top_words(top_dict)

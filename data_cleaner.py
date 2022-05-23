@@ -8,8 +8,9 @@ import re
 import string
 from sklearn.feature_extraction.text import CountVectorizer
 
+#Words we found useless through most_common_words.py
 lst_of_words_to_remove = ['kan','så','ved','dag','hele','igen','gør',
-'ligger','kom','må','se','ser','går','tager','tage','tror','vi','er','et']
+'ligger','kom','må','se','ser','går','tager','tage','tror','vi','er','et', 'måtte', 'måttet']
 #set(stopwords.words('danish'))
 stopwords = nltk.corpus.stopwords.words('danish')
 for w in lst_of_words_to_remove:
